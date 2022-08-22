@@ -1,0 +1,31 @@
+.header {
+  background-color: red;
+  margin-top: 10px;
+}
+
+.textblock_heading {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-weight: bolder;
+}
+
+.textblock {
+  position: absolute;
+  margin-top: 20px;
+  right: 20px;
+  background-color: black;
+  opacity: 0.6;
+  padding: 10px;
+  color: white;
+  font-weight: bolder;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 20px;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 160px;
+}
